@@ -46,5 +46,4 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/yourusername/medical-diagnostic-system.git
-   cd medical-diagnostic-system
+   https://github.com/SEC-NLP-2026-C/disease-prediction-chatbot.git
